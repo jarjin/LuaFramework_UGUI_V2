@@ -18,7 +18,7 @@ UnityHello:  https://github.com/woshihuo12/UnityHello
 Excel配置：https://github.com/sy-yanghuan/proton
 
 //-------------2019-05-23 Update by MeniscusLight-------------
-(1)导入LiteNetLib网络库
+(1)导入LiteNetLib网络库（详情见README.md）
 
 //-------------2019-05-22 Update by MeniscusLight-------------
 (1)跟进最新的tolua
