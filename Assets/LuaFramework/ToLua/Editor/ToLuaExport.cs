@@ -158,7 +158,10 @@ public static class ToLuaExport
         "UIWidget.showHandlesWithMoveTool",
         "UIWidget.showHandles",
         "Input.IsJoystickPreconfigured",
-        "UIDrawCall.isActive"
+        "UIDrawCall.isActive",
+        "Dictionary.TryAdd",
+        "KeyValuePair.Deconstruct",
+        "ParticleSystem.SetJob"
     };
 
     class _MethodBase
