@@ -18,6 +18,9 @@ UnityHello:  https://github.com/woshihuo12/UnityHello
 Excel配置：https://github.com/sy-yanghuan/proton
 
 //-------------2019-05-23 Update by MeniscusLight-------------
+Unity5.3之后,AssetBundle.CreateFromMemoryImmediate升级为AssetBundle.LoadFromMemory, 如有需要请自行取消注释
+
+//-------------2019-05-23 Update by MeniscusLight-------------
 (1)导入LiteNetLib网络库（详情见README.md）
 
 //-------------2019-05-22 Update by MeniscusLight-------------
