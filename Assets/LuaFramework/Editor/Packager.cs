@@ -32,12 +32,7 @@ public class Packager {
 
     [MenuItem("LuaFramework/Build iPhone Resource", false, 100)]
     public static void BuildiPhoneResource() {
-        BuildTarget target;
-#if UNITY_5
-        target = BuildTarget.iOS;
-#else
-        target = BuildTarget.iPhone;
-#endif
+        BuildTarget target = BuildTarget.iOS;
         BuildAssetResource(target);
     }
 
