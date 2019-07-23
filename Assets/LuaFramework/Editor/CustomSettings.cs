@@ -198,9 +198,9 @@ public static class CustomSettings
         typeof(AnimationClip),
         typeof(AnimationState),
 #if UNITY_2019
-        _GT(typeof(SkinWeights)),
+        typeof(SkinWeights),
 #else
-        _GT(typeof(BlendWeights)),
+        typeof(BlendWeights),
 #endif
         typeof(RenderTexture),
         typeof(Rigidbody),
