@@ -21,6 +21,9 @@ Excel配置：https://github.com/sy-yanghuan/proton
 Unity5.3之后,AssetBundle.CreateFromMemoryImmediate升级为AssetBundle.LoadFromMemory, 如有需要请自行取消注释
 
 //-------------2019-05-23 Update by MeniscusLight-------------
+(1) 目前Unity版本最高支持到2019.1.2, 看到issue里有热心网友提问2019.1.9里会报错，应该是接口废弃的原因。望周知。
+
+//-------------2019-05-23 Update by MeniscusLight-------------
 (1)导入LiteNetLib网络库（详情见README.md）
 
 //-------------2019-05-22 Update by MeniscusLight-------------
