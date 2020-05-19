@@ -16,3 +16,5 @@
 【关于LiteNetLib网络库】
 	目前的LiteNetLib网络库尚未使用最新的master版本，因为兼容性问题尚在修复，等LockStep的demo之后
 push后，会将LiteNetLib升级. 敬请关注！
+
+目前在开发新版框架，如果有技术问题，加微信jarjin，拉微信群，帮你们解决
